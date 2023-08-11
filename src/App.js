@@ -1,4 +1,9 @@
+import {Suspense} from "react";
 import './App.css';
+
+import {fetchData} from "./Api";
+
+const resource = fetchData();
 
 function App() {
   return (
