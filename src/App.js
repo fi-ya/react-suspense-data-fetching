@@ -11,8 +11,6 @@ function App() {
     <div className="container my-5">
         <Suspense fallback={<Spinner />}>
             <ProfileDetails/>
-        </Suspense>
-        <Suspense fallback={<Spinner />}>
             <ProfilePosts/>
         </Suspense>
     </div>
@@ -52,6 +50,7 @@ const ProfilePosts = () => {
 }
 
 const Spinner = () => {
+    console.log('Loading spinner')
     return (
         <>
             <img
