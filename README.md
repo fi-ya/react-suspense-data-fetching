@@ -3,6 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Following Traversy Media YouTube tutorial [React Suspense Introduction (Data Fetching)](https://www.youtube.com/watch?v=NTDJ-NQ32_E)
 
+
+## Check fallback working
+
+Go to `Network` tab and select `Slow 3G` and reload page to see loading state appear when data still fetching 
+
 ## Available Scripts
 
 In the project directory, you can run:
