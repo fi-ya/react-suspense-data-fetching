@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Create React App & Traversy Media
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Following Traversy Media YouTube tutorial [React Suspense Introduction (Data Fetching)](https://www.youtube.com/watch?v=NTDJ-NQ32_E)
 
 ## Available Scripts
 
